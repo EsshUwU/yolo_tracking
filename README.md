@@ -52,7 +52,6 @@ Press 'q' to quit the application.
 ## Technical Details
 
 - Serial Communication: 9600 baud rate
-- Frame Width: 640 pixels
+- Frame Width: 640 pixels and can be scaled more
 - Servo Range: 0-180 degrees
-- Detection Confidence Threshold: 0.7
 - CUDA acceleration enabled for inference
