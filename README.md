@@ -55,3 +55,7 @@ Press 'q' to quit the application.
 - Frame Width: 640 pixels and can be scaled more
 - Servo Range: 0-180 degrees
 - CUDA acceleration enabled for inference
+
+# Future Updates 
+
+- Two axis servo
